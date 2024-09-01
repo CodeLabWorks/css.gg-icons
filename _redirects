@@ -1,7 +1,8 @@
 /css                /icons/icons.css  200
 /:iconname.css      /icons/css/:iconname.css  200
 /json                /icons/icons.json  200
-/xml                /icons/icons.xml  200
 /:iconname.svg      /icons/svg/:iconname.svg  200
 /icons.scss.svg      /icons/icons.scss  200
+/scss                /icons/icons.scss  200
+/:iconname.scss      /icons/scss/:iconname.scss  200
 
